@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e1b4b&height=220&section=header&text=Muhammad%20Jawwad%20Raza&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20%7C%20Next.js%20%26%20AI%20Integration&descSize=20&descAlignY=65)
+<img src="./header.svg" alt="Muhammad Jawwad Raza - Full Stack MERN Developer" width="100%"/>
 
 <a href="https://mjawwadraza.com/"><img src="https://img.shields.io/badge/Portfolio-mjawwadraza.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Jawwad_Raza-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -141,6 +141,6 @@
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="mailto:mjawwadraza.dev@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6d28d9&height=120&section=footer)
+<img src="./footer.svg" alt="Footer" width="100%"/>
 
 </div>
